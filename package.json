@@ -1,0 +1,26 @@
+{
+  "name": "tdd-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "capitalizeFirstLetters.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TOBOTOMAS31/js-tdd-intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TOBOTOMAS31/js-tdd-intro/issues"
+  },
+  "homepage": "https://github.com/TOBOTOMAS31/js-tdd-intro#readme",
+  "devDependencies": {
+    "mocha": "^7.2.0"
+  }
+}
