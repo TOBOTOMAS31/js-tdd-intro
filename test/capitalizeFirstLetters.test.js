@@ -6,7 +6,7 @@ describe("capitalizeFirstLetters", () => {
     // on vérifie que capitaliszeFirstLetters est bien une fonction
     assert.strictEqual(typeof capitalizeFirstLetters, "function");
     // on vérifie que capitaliszeFirstLetters accepte un argument
-    assert.strictEqual(capitalizeFirstLetters.length, 1);
+    assert.strictEqual(capitalizeFirstLetters.length, 1);  
   });
 
   it("transforme correctement une chaîne de caractères", () => {
